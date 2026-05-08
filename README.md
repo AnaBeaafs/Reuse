@@ -1,8 +1,8 @@
-#ReUse - App de Troca Sustentável
+# ReUse - App de Troca Sustentável
 
 Um aplicativo mobile para troca, reutilização e economia circular. Conecte-se com outras pessoas e dê nova vida aos seus itens!
 
-##Sobre o Projeto
+## Sobre o Projeto
 
 **ReUse** é uma plataforma mobile desenvolvida em **React Native** com o objetivo de promover o consumo consciente através da troca e reutilização de roupas, acessórios, eletrônicos, livros e outros itens.
 
@@ -10,9 +10,9 @@ O app permite que usuários publiquem itens que não usam mais, encontrem produt
 
 ---
 
-##Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
-###Principais Features
+### Principais Features
 - **Navegação por Tabs**: Início, Postar e Perfil
 - **Autenticação completa** com login persistente
 - **Postagem de itens** com câmera e galeria
@@ -22,7 +22,7 @@ O app permite que usuários publiquem itens que não usam mais, encontrem produt
 - **Caching local** com AsyncStorage
 - **Design moderno** e responsivo
 
-###Gamificação
+### Gamificação
 - Ganho de pontos ao postar itens (+300)
 - Ganho de pontos ao favoritar (+20)
 - Animação flutuante de pontos
@@ -30,7 +30,7 @@ O app permite que usuários publiquem itens que não usam mais, encontrem produt
 
 ---
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React Native** (Expo)
 - **React Navigation** (Stack + Bottom Tabs)
@@ -42,7 +42,7 @@ O app permite que usuários publiquem itens que não usam mais, encontrem produt
 
 ---
 
-##Telas Desenvolvidas
+## Telas Desenvolvidas
 
 - `LoginScreen`
 - `HomeScreen` (com produtos da API)
