@@ -53,12 +53,12 @@ O app permite que usuários publiquem itens que não usam mais, encontrem produt
 
 ##Critérios de Avaliação Atendidos
 
-### 1. Consumo de APIs (60%)
+### 1. Consumo de APIs
 - Integração com **FakeStore API**
 - Busca dinâmica de produtos na Home
 - Tratamento de erros e fallback
 
-### 2. Autenticação e Sessões (20%)
+### 2. Autenticação e Sessões
 - Login persistente
 - Proteção de rotas
 - Logout funcional com redirecionamento
